@@ -1,0 +1,1215 @@
+2024/09/19 20:23:43 [emerg] 22108#38536: directive "listen" is not terminated by ";" in G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/conf/nginx.conf:30
+2024/09/20 16:57:32 [notice] 1628#264: using the "select" event method
+2024/09/20 16:57:32 [notice] 1628#264: nginx/1.13.12
+2024/09/20 16:57:32 [info] 1628#264: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/20 16:57:32 [notice] 1628#264: start worker processes
+2024/09/20 16:57:32 [notice] 1628#264: start worker process 16248
+2024/09/20 16:57:33 [notice] 16248#1076: nginx/1.13.12
+2024/09/20 16:57:33 [info] 16248#1076: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/20 16:57:33 [notice] 16248#1076: create thread 26872
+2024/09/20 16:57:33 [notice] 16248#1076: create thread 18660
+2024/09/20 16:57:33 [notice] 16248#1076: create thread 38956
+2024/09/20 16:58:03 [notice] 41152#31596: signal process started
+2024/09/20 16:58:03 [notice] 1628#264: exiting
+2024/09/20 16:58:03 [notice] 16248#1076: gracefully shutting down
+2024/09/20 16:58:03 [notice] 16248#18660: exiting
+2024/09/20 16:58:03 [notice] 16248#26872: exiting
+2024/09/20 16:58:03 [notice] 16248#1076: exit
+2024/09/20 16:58:03 [notice] 1628#264: worker process 16248 exited with code 0
+2024/09/20 16:58:03 [notice] 1628#264: exit
+2024/09/20 16:58:05 [notice] 46168#44764: signal process started
+2024/09/20 16:58:05 [error] 46168#44764: CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/20 16:58:20 [notice] 27856#3452: using the "select" event method
+2024/09/20 16:58:20 [notice] 27856#3452: nginx/1.13.12
+2024/09/20 16:58:20 [info] 27856#3452: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/20 16:58:20 [notice] 27856#3452: start worker processes
+2024/09/20 16:58:20 [notice] 27856#3452: start worker process 1832
+2024/09/20 16:58:20 [notice] 1832#9428: nginx/1.13.12
+2024/09/20 16:58:20 [info] 1832#9428: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/20 16:58:20 [notice] 1832#9428: create thread 8764
+2024/09/20 16:58:20 [notice] 1832#9428: create thread 18664
+2024/09/20 16:58:20 [notice] 1832#9428: create thread 45604
+2024/09/20 16:58:30 [notice] 17980#26748: signal process started
+2024/09/20 16:58:30 [notice] 27856#3452: exiting
+2024/09/20 16:58:30 [notice] 1832#9428: gracefully shutting down
+2024/09/20 16:58:30 [notice] 1832#18664: exiting
+2024/09/20 16:58:30 [notice] 1832#8764: exiting
+2024/09/20 16:58:30 [notice] 1832#9428: exit
+2024/09/20 16:58:30 [notice] 27856#3452: worker process 1832 exited with code 0
+2024/09/20 16:58:30 [notice] 27856#3452: exit
+2024/09/20 16:58:32 [notice] 25260#14024: using the "select" event method
+2024/09/20 16:58:32 [notice] 25260#14024: nginx/1.13.12
+2024/09/20 16:58:32 [info] 25260#14024: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/20 16:58:32 [notice] 25260#14024: start worker processes
+2024/09/20 16:58:32 [notice] 25260#14024: start worker process 41256
+2024/09/20 16:58:32 [notice] 41256#29236: nginx/1.13.12
+2024/09/20 16:58:32 [info] 41256#29236: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/20 16:58:32 [notice] 41256#29236: create thread 25816
+2024/09/20 16:58:32 [notice] 41256#29236: create thread 22620
+2024/09/20 16:58:32 [notice] 41256#29236: create thread 38224
+2024/09/20 16:58:36 [notice] 42780#32908: signal process started
+2024/09/20 16:58:36 [notice] 25260#14024: exiting
+2024/09/20 16:58:36 [notice] 41256#29236: gracefully shutting down
+2024/09/20 16:58:36 [notice] 41256#22620: exiting
+2024/09/20 16:58:36 [notice] 41256#25816: exiting
+2024/09/20 16:58:36 [notice] 41256#29236: exit
+2024/09/20 16:58:36 [notice] 25260#14024: worker process 41256 exited with code 0
+2024/09/20 16:58:36 [notice] 25260#14024: exit
+2024/09/20 17:04:53 [notice] 43176#34224: using the "select" event method
+2024/09/20 17:04:53 [notice] 43176#34224: nginx/1.13.12
+2024/09/20 17:04:53 [info] 43176#34224: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/20 17:04:53 [notice] 43176#34224: start worker processes
+2024/09/20 17:04:53 [notice] 43176#34224: start worker process 25396
+2024/09/20 17:04:54 [notice] 25396#27548: nginx/1.13.12
+2024/09/20 17:04:54 [info] 25396#27548: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/20 17:04:54 [notice] 25396#27548: create thread 22620
+2024/09/20 17:04:54 [notice] 25396#27548: create thread 28764
+2024/09/20 17:04:54 [notice] 25396#27548: create thread 40104
+2024/09/20 17:05:22 [notice] 2092#18888: signal process started
+2024/09/20 17:05:22 [notice] 43176#34224: exiting
+2024/09/20 17:05:22 [notice] 25396#27548: gracefully shutting down
+2024/09/20 17:05:22 [notice] 25396#28764: exiting
+2024/09/20 17:05:22 [notice] 25396#22620: exiting
+2024/09/20 17:05:22 [notice] 25396#27548: exit
+2024/09/20 17:05:22 [notice] 43176#34224: worker process 25396 exited with code 0
+2024/09/20 17:05:22 [notice] 43176#34224: exit
+2024/09/21 09:20:45 [notice] 36556#14256: using the "select" event method
+2024/09/21 09:20:45 [notice] 36556#14256: nginx/1.13.12
+2024/09/21 09:20:45 [info] 36556#14256: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:20:45 [notice] 36556#14256: start worker processes
+2024/09/21 09:20:45 [notice] 36556#14256: start worker process 8348
+2024/09/21 09:20:45 [notice] 8348#27164: nginx/1.13.12
+2024/09/21 09:20:45 [info] 8348#27164: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:20:45 [notice] 8348#27164: create thread 24060
+2024/09/21 09:20:45 [notice] 8348#27164: create thread 28812
+2024/09/21 09:20:45 [notice] 8348#27164: create thread 6648
+2024/09/21 09:20:55 [notice] 28776#24096: using the "select" event method
+2024/09/21 09:20:55 [notice] 28776#24096: nginx/1.13.12
+2024/09/21 09:20:55 [info] 28776#24096: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:20:55 [notice] 28776#24096: start worker processes
+2024/09/21 09:20:55 [notice] 28776#24096: start worker process 27536
+2024/09/21 09:20:55 [notice] 27536#7804: nginx/1.13.12
+2024/09/21 09:20:55 [info] 27536#7804: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:20:55 [notice] 27536#7804: create thread 29624
+2024/09/21 09:20:55 [notice] 27536#7804: create thread 34088
+2024/09/21 09:20:55 [notice] 27536#7804: create thread 28360
+2024/09/21 09:22:54 [notice] 46828#46548: using the "select" event method
+2024/09/21 09:22:54 [notice] 37384#43268: using the "select" event method
+2024/09/21 09:22:54 [notice] 46828#46548: nginx/1.13.12
+2024/09/21 09:22:54 [info] 46828#46548: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:22:54 [notice] 37384#43268: nginx/1.13.12
+2024/09/21 09:22:54 [info] 37384#43268: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:22:54 [notice] 46828#46548: start worker processes
+2024/09/21 09:22:54 [notice] 37384#43268: start worker processes
+2024/09/21 09:22:54 [notice] 37384#43268: start worker process 2740
+2024/09/21 09:22:54 [notice] 46828#46548: start worker process 17740
+2024/09/21 09:22:54 [notice] 2740#9332: nginx/1.13.12
+2024/09/21 09:22:54 [info] 2740#9332: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:22:54 [notice] 2740#9332: create thread 14744
+2024/09/21 09:22:54 [notice] 2740#9332: create thread 28424
+2024/09/21 09:22:54 [notice] 2740#9332: create thread 39748
+2024/09/21 09:22:54 [notice] 17740#39388: nginx/1.13.12
+2024/09/21 09:22:54 [info] 17740#39388: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:22:54 [notice] 17740#39388: create thread 31208
+2024/09/21 09:22:54 [notice] 17740#39388: create thread 4524
+2024/09/21 09:22:54 [notice] 17740#39388: create thread 10360
+2024/09/21 09:24:26 [notice] 13892#14244: using the "select" event method
+2024/09/21 09:24:26 [notice] 33988#31868: using the "select" event method
+2024/09/21 09:24:26 [notice] 13892#14244: nginx/1.13.12
+2024/09/21 09:24:26 [info] 13892#14244: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:24:26 [notice] 33988#31868: nginx/1.13.12
+2024/09/21 09:24:26 [info] 33988#31868: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:24:26 [notice] 13892#14244: start worker processes
+2024/09/21 09:24:26 [notice] 33988#31868: start worker processes
+2024/09/21 09:24:26 [notice] 13892#14244: start worker process 30888
+2024/09/21 09:24:26 [notice] 33988#31868: start worker process 8664
+2024/09/21 09:24:27 [notice] 30888#37260: nginx/1.13.12
+2024/09/21 09:24:27 [info] 30888#37260: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:24:27 [notice] 8664#28720: nginx/1.13.12
+2024/09/21 09:24:27 [info] 8664#28720: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:24:27 [notice] 30888#37260: create thread 41436
+2024/09/21 09:24:27 [notice] 30888#37260: create thread 39744
+2024/09/21 09:24:27 [notice] 30888#37260: create thread 35024
+2024/09/21 09:24:27 [notice] 8664#28720: create thread 20204
+2024/09/21 09:24:27 [notice] 8664#28720: create thread 36908
+2024/09/21 09:24:27 [notice] 8664#28720: create thread 24316
+2024/09/21 09:25:51 [notice] 26780#33428: using the "select" event method
+2024/09/21 09:25:51 [notice] 26012#22844: using the "select" event method
+2024/09/21 09:25:51 [notice] 26780#33428: nginx/1.13.12
+2024/09/21 09:25:51 [info] 26780#33428: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:25:51 [notice] 26012#22844: nginx/1.13.12
+2024/09/21 09:25:51 [info] 26012#22844: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:25:51 [notice] 26780#33428: start worker processes
+2024/09/21 09:25:51 [notice] 26012#22844: start worker processes
+2024/09/21 09:25:51 [notice] 26012#22844: start worker process 41772
+2024/09/21 09:25:51 [notice] 26780#33428: start worker process 46008
+2024/09/21 09:25:51 [notice] 46008#18268: nginx/1.13.12
+2024/09/21 09:25:51 [info] 46008#18268: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:25:51 [notice] 41772#45900: nginx/1.13.12
+2024/09/21 09:25:51 [info] 41772#45900: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:25:51 [notice] 46008#18268: create thread 28008
+2024/09/21 09:25:51 [notice] 46008#18268: create thread 31180
+2024/09/21 09:25:51 [notice] 46008#18268: create thread 38492
+2024/09/21 09:25:51 [notice] 41772#45900: create thread 14180
+2024/09/21 09:25:51 [notice] 41772#45900: create thread 2952
+2024/09/21 09:25:51 [notice] 41772#45900: create thread 14056
+2024/09/21 09:27:02 [notice] 17644#16080: using the "select" event method
+2024/09/21 09:27:02 [notice] 13352#19252: using the "select" event method
+2024/09/21 09:27:02 [notice] 17644#16080: nginx/1.13.12
+2024/09/21 09:27:02 [info] 17644#16080: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:27:02 [notice] 13352#19252: nginx/1.13.12
+2024/09/21 09:27:02 [info] 13352#19252: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:27:02 [notice] 13352#19252: start worker processes
+2024/09/21 09:27:02 [notice] 17644#16080: start worker processes
+2024/09/21 09:27:02 [notice] 13352#19252: start worker process 27228
+2024/09/21 09:27:02 [notice] 17644#16080: start worker process 22524
+2024/09/21 09:27:03 [notice] 27228#1880: nginx/1.13.12
+2024/09/21 09:27:03 [info] 27228#1880: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:27:03 [notice] 27228#1880: create thread 38632
+2024/09/21 09:27:03 [notice] 27228#1880: create thread 25004
+2024/09/21 09:27:03 [notice] 27228#1880: create thread 38280
+2024/09/21 09:27:03 [notice] 22524#11216: nginx/1.13.12
+2024/09/21 09:27:03 [info] 22524#11216: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:27:03 [notice] 22524#11216: create thread 13172
+2024/09/21 09:27:03 [notice] 22524#11216: create thread 16656
+2024/09/21 09:27:03 [notice] 22524#11216: create thread 44612
+2024/09/21 09:31:14 [notice] 42140#43716: using the "select" event method
+2024/09/21 09:31:14 [notice] 42140#43716: nginx/1.13.12
+2024/09/21 09:31:14 [info] 42140#43716: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:31:14 [notice] 21904#32176: using the "select" event method
+2024/09/21 09:31:14 [notice] 21904#32176: nginx/1.13.12
+2024/09/21 09:31:14 [info] 21904#32176: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:31:14 [notice] 42140#43716: start worker processes
+2024/09/21 09:31:14 [notice] 21904#32176: start worker processes
+2024/09/21 09:31:14 [notice] 42140#43716: start worker process 7960
+2024/09/21 09:31:14 [notice] 21904#32176: start worker process 40368
+2024/09/21 09:31:15 [notice] 7960#1920: nginx/1.13.12
+2024/09/21 09:31:15 [notice] 40368#18608: nginx/1.13.12
+2024/09/21 09:31:15 [info] 7960#1920: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:31:15 [info] 40368#18608: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:31:15 [notice] 40368#18608: create thread 38596
+2024/09/21 09:31:15 [notice] 40368#18608: create thread 3080
+2024/09/21 09:31:15 [notice] 7960#1920: create thread 38688
+2024/09/21 09:31:15 [notice] 40368#18608: create thread 25544
+2024/09/21 09:31:15 [notice] 7960#1920: create thread 34264
+2024/09/21 09:31:15 [notice] 7960#1920: create thread 15624
+2024/09/21 09:31:57 [notice] 43932#22588: using the "select" event method
+2024/09/21 09:31:57 [notice] 43932#22588: nginx/1.13.12
+2024/09/21 09:31:57 [info] 43932#22588: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:31:57 [notice] 43932#22588: start worker processes
+2024/09/21 09:31:57 [notice] 43932#22588: start worker process 1580
+2024/09/21 09:31:57 [notice] 30664#41276: using the "select" event method
+2024/09/21 09:31:57 [notice] 30664#41276: nginx/1.13.12
+2024/09/21 09:31:57 [info] 30664#41276: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:31:57 [notice] 30664#41276: start worker processes
+2024/09/21 09:31:57 [notice] 30664#41276: start worker process 16260
+2024/09/21 09:31:57 [notice] 1580#10264: nginx/1.13.12
+2024/09/21 09:31:57 [info] 1580#10264: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:31:57 [notice] 1580#10264: create thread 15324
+2024/09/21 09:31:57 [notice] 1580#10264: create thread 22764
+2024/09/21 09:31:57 [notice] 1580#10264: create thread 21716
+2024/09/21 09:31:57 [notice] 16260#20404: nginx/1.13.12
+2024/09/21 09:31:57 [info] 16260#20404: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:31:57 [notice] 16260#20404: create thread 19992
+2024/09/21 09:31:57 [notice] 16260#20404: create thread 22996
+2024/09/21 09:31:57 [notice] 16260#20404: create thread 7636
+2024/09/21 09:32:41 [notice] 29276#38776: using the "select" event method
+2024/09/21 09:32:41 [notice] 29276#38776: nginx/1.13.12
+2024/09/21 09:32:41 [info] 29276#38776: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:32:41 [notice] 20408#5440: using the "select" event method
+2024/09/21 09:32:41 [notice] 20408#5440: nginx/1.13.12
+2024/09/21 09:32:41 [info] 20408#5440: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:32:41 [notice] 29276#38776: start worker processes
+2024/09/21 09:32:41 [notice] 20408#5440: start worker processes
+2024/09/21 09:32:41 [notice] 20408#5440: start worker process 23596
+2024/09/21 09:32:41 [notice] 29276#38776: start worker process 38172
+2024/09/21 09:32:41 [notice] 23596#34912: nginx/1.13.12
+2024/09/21 09:32:41 [info] 23596#34912: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:32:41 [notice] 23596#34912: create thread 45356
+2024/09/21 09:32:41 [notice] 23596#34912: create thread 26396
+2024/09/21 09:32:41 [notice] 23596#34912: create thread 24164
+2024/09/21 09:32:41 [notice] 38172#37172: nginx/1.13.12
+2024/09/21 09:32:41 [info] 38172#37172: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:32:41 [notice] 38172#37172: create thread 26464
+2024/09/21 09:32:41 [notice] 38172#37172: create thread 10748
+2024/09/21 09:32:41 [notice] 38172#37172: create thread 26944
+2024/09/21 09:33:46 [notice] 13892#14244: worker process 30888 exited with code FFFFFFFF
+2024/09/21 09:33:46 [notice] 13892#14244: start worker process 46336
+2024/09/21 09:33:46 [notice] 46336#23960: nginx/1.13.12
+2024/09/21 09:33:46 [info] 46336#23960: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:33:46 [notice] 46336#23960: create thread 41708
+2024/09/21 09:33:46 [notice] 46336#23960: create thread 31028
+2024/09/21 09:33:46 [notice] 46336#23960: create thread 27392
+2024/09/21 09:33:52 [notice] 20408#5440: worker process 23596 exited with code FFFFFFFF
+2024/09/21 09:33:52 [notice] 20408#5440: start worker process 15328
+2024/09/21 09:33:52 [notice] 15328#32032: nginx/1.13.12
+2024/09/21 09:33:52 [info] 15328#32032: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:33:52 [alert] 15328#32032: OpenEvent("ngx_master_20408") failed (2: The system cannot find the file specified)
+2024/09/21 09:35:04 [notice] 43172#21752: using the "select" event method
+2024/09/21 09:35:04 [notice] 37520#46608: using the "select" event method
+2024/09/21 09:35:04 [notice] 43172#21752: nginx/1.13.12
+2024/09/21 09:35:04 [info] 43172#21752: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:35:04 [notice] 37520#46608: nginx/1.13.12
+2024/09/21 09:35:04 [info] 37520#46608: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:35:04 [notice] 43172#21752: start worker processes
+2024/09/21 09:35:04 [notice] 37520#46608: start worker processes
+2024/09/21 09:35:04 [notice] 43172#21752: start worker process 42452
+2024/09/21 09:35:04 [notice] 37520#46608: start worker process 2880
+2024/09/21 09:35:05 [notice] 2880#9092: nginx/1.13.12
+2024/09/21 09:35:05 [notice] 42452#27032: nginx/1.13.12
+2024/09/21 09:35:05 [info] 2880#9092: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:35:05 [info] 42452#27032: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:35:05 [notice] 2880#9092: create thread 38596
+2024/09/21 09:35:05 [notice] 42452#27032: create thread 25544
+2024/09/21 09:35:05 [notice] 42452#27032: create thread 3080
+2024/09/21 09:35:05 [notice] 2880#9092: create thread 21500
+2024/09/21 09:35:05 [notice] 2880#9092: create thread 36016
+2024/09/21 09:35:05 [notice] 42452#27032: create thread 40368
+2024/09/21 09:35:42 [notice] 46644#29208: using the "select" event method
+2024/09/21 09:35:42 [notice] 46644#29208: nginx/1.13.12
+2024/09/21 09:35:42 [info] 46644#29208: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:35:42 [notice] 46644#29208: start worker processes
+2024/09/21 09:35:42 [notice] 46644#29208: start worker process 35908
+2024/09/21 09:35:42 [notice] 35908#41748: nginx/1.13.12
+2024/09/21 09:35:42 [info] 35908#41748: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:35:42 [notice] 35908#41748: create thread 2180
+2024/09/21 09:35:42 [notice] 35908#41748: create thread 20580
+2024/09/21 09:35:42 [notice] 35908#41748: create thread 17044
+2024/09/21 09:35:54 [notice] 15004#37016: signal process started
+2024/09/21 09:35:54 [notice] 46644#29208: exiting
+2024/09/21 09:35:54 [notice] 35908#41748: gracefully shutting down
+2024/09/21 09:35:54 [notice] 35908#20580: exiting
+2024/09/21 09:35:54 [notice] 35908#2180: exiting
+2024/09/21 09:35:54 [notice] 35908#41748: exit
+2024/09/21 09:35:54 [notice] 46644#29208: worker process 35908 exited with code 0
+2024/09/21 09:35:54 [notice] 46644#29208: exit
+2024/09/21 09:36:35 [notice] 32752#30528: using the "select" event method
+2024/09/21 09:36:35 [notice] 35064#28708: using the "select" event method
+2024/09/21 09:36:35 [notice] 32752#30528: nginx/1.13.12
+2024/09/21 09:36:35 [info] 32752#30528: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:36:35 [notice] 35064#28708: nginx/1.13.12
+2024/09/21 09:36:35 [info] 35064#28708: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:36:35 [notice] 35064#28708: start worker processes
+2024/09/21 09:36:35 [notice] 32752#30528: start worker processes
+2024/09/21 09:36:35 [notice] 35064#28708: start worker process 27228
+2024/09/21 09:36:35 [notice] 32752#30528: start worker process 1920
+2024/09/21 09:36:35 [notice] 27228#7636: nginx/1.13.12
+2024/09/21 09:36:35 [info] 27228#7636: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:36:35 [notice] 27228#7636: create thread 38492
+2024/09/21 09:36:35 [notice] 27228#7636: create thread 28008
+2024/09/21 09:36:35 [notice] 27228#7636: create thread 31180
+2024/09/21 09:36:35 [notice] 1920#42480: nginx/1.13.12
+2024/09/21 09:36:35 [info] 1920#42480: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:36:35 [notice] 1920#42480: create thread 35480
+2024/09/21 09:36:35 [notice] 1920#42480: create thread 18380
+2024/09/21 09:36:35 [notice] 1920#42480: create thread 34336
+2024/09/21 09:38:06 [notice] 36860#3572: using the "select" event method
+2024/09/21 09:38:06 [notice] 36860#3572: nginx/1.13.12
+2024/09/21 09:38:06 [info] 36860#3572: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:38:06 [notice] 36860#3572: start worker processes
+2024/09/21 09:38:06 [notice] 36860#3572: start worker process 45072
+2024/09/21 09:38:06 [notice] 45072#14272: nginx/1.13.12
+2024/09/21 09:38:06 [info] 45072#14272: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:38:06 [notice] 45072#14272: create thread 46036
+2024/09/21 09:38:06 [notice] 45072#14272: create thread 44832
+2024/09/21 09:38:06 [notice] 45072#14272: create thread 18592
+2024/09/21 09:47:15 [notice] 15324#25044: using the "select" event method
+2024/09/21 09:47:15 [notice] 15324#25044: nginx/1.13.12
+2024/09/21 09:47:15 [info] 15324#25044: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:47:15 [notice] 15324#25044: start worker processes
+2024/09/21 09:47:15 [notice] 15324#25044: start worker process 33780
+2024/09/21 09:47:15 [notice] 33780#46924: nginx/1.13.12
+2024/09/21 09:47:15 [info] 33780#46924: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:47:15 [notice] 33780#46924: create thread 25968
+2024/09/21 09:47:15 [notice] 33780#46924: create thread 43984
+2024/09/21 09:47:15 [notice] 33780#46924: create thread 26988
+2024/09/21 09:48:06 [notice] 7736#34328: using the "select" event method
+2024/09/21 09:48:06 [notice] 7736#34328: nginx/1.13.12
+2024/09/21 09:48:06 [info] 7736#34328: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:48:06 [notice] 7736#34328: start worker processes
+2024/09/21 09:48:06 [notice] 7736#34328: start worker process 24164
+2024/09/21 09:48:06 [notice] 24164#39192: nginx/1.13.12
+2024/09/21 09:48:06 [info] 24164#39192: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:48:06 [notice] 24164#39192: create thread 6588
+2024/09/21 09:48:06 [notice] 24164#39192: create thread 21048
+2024/09/21 09:48:06 [notice] 24164#39192: create thread 26732
+2024/09/21 09:49:06 [notice] 12448#28476: using the "select" event method
+2024/09/21 09:49:06 [notice] 12448#28476: nginx/1.13.12
+2024/09/21 09:49:06 [info] 12448#28476: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:49:06 [notice] 12448#28476: start worker processes
+2024/09/21 09:49:06 [notice] 12448#28476: start worker process 32304
+2024/09/21 09:49:06 [notice] 32304#33884: nginx/1.13.12
+2024/09/21 09:49:06 [info] 32304#33884: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:49:06 [notice] 32304#33884: create thread 41300
+2024/09/21 09:49:06 [notice] 32304#33884: create thread 6836
+2024/09/21 09:49:06 [notice] 32304#33884: create thread 3452
+2024/09/21 09:49:59 [notice] 15624#44052: using the "select" event method
+2024/09/21 09:49:59 [notice] 15624#44052: nginx/1.13.12
+2024/09/21 09:49:59 [info] 15624#44052: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:49:59 [notice] 15624#44052: start worker processes
+2024/09/21 09:49:59 [notice] 15624#44052: start worker process 45244
+2024/09/21 09:49:59 [notice] 45244#40244: nginx/1.13.12
+2024/09/21 09:49:59 [info] 45244#40244: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:49:59 [notice] 45244#40244: create thread 26484
+2024/09/21 09:49:59 [notice] 45244#40244: create thread 25224
+2024/09/21 09:49:59 [notice] 45244#40244: create thread 32272
+2024/09/21 09:52:00 [error] 45244#26484: *1 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/history/history.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "127.0.0.1:55777", referrer: "http://127.0.0.1:55777/"
+2024/09/21 09:52:00 [error] 45244#26484: *2 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/history/history.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /history/history.js HTTP/1.1", host: "127.0.0.1:55777", referrer: "http://127.0.0.1:55777/"
+2024/09/21 09:52:00 [error] 45244#26484: *2 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:55777", referrer: "http://127.0.0.1:55777/"
+2024/09/21 09:54:38 [info] 45244#26484: *4 client connected '127.0.0.1'
+2024/09/21 09:55:02 [info] 45244#26484: *5 client connected '127.0.0.1'
+2024/09/21 09:55:02 [info] 45244#26484: *6 client connected '127.0.0.1'
+2024/09/21 09:55:02 [info] 45244#26484: *4 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:55:02 [info] 45244#26484: *4 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:55:07 [info] 45244#26484: *6 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:55:07 [info] 45244#26484: *6 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:55:12 [info] 45244#26484: *5 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:55:12 [info] 45244#26484: *5 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:56:29 [info] 45244#26484: *7 client connected '127.0.0.1'
+2024/09/21 09:56:29 [info] 45244#26484: *7 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live' tc_url='rtmp://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:56:29 [info] 45244#26484: *7 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:56:29 [info] 45244#26484: *7 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:56:29 [info] 45244#26484: *7 relay: create push name='' app='' playpath='' url='127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:56:29 [info] 45244#26484: *7 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:57:29 [info] 45244#26484: *9 handshake: send: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 09:57:29 [info] 45244#26484: *9 disconnect, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 09:57:29 [info] 45244#26484: *9 deleteStream, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 09:57:32 [info] 45244#26484: *7 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:58:15 [info] 45244#26484: *8 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 09:58:15 [info] 45244#26484: *8 disconnect, client: 127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 09:58:15 [info] 45244#26484: *8 deleteStream, client: 127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 09:58:18 [info] 45244#26484: *7 relay: create push name='' app='' playpath='' url='127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:58:22 [info] 45244#26484: *12 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 09:58:22 [info] 45244#26484: *12 disconnect, client: 127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 09:58:22 [info] 45244#26484: *12 deleteStream, client: 127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 09:59:34 [notice] 31720#36428: using the "select" event method
+2024/09/21 09:59:34 [notice] 31720#36428: nginx/1.13.12
+2024/09/21 09:59:34 [info] 31720#36428: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:59:34 [notice] 31720#36428: start worker processes
+2024/09/21 09:59:34 [notice] 31720#36428: start worker process 21640
+2024/09/21 09:59:34 [notice] 21640#5956: nginx/1.13.12
+2024/09/21 09:59:34 [info] 21640#5956: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 09:59:34 [notice] 21640#5956: create thread 8136
+2024/09/21 09:59:34 [notice] 21640#5956: create thread 23460
+2024/09/21 09:59:34 [notice] 21640#5956: create thread 30252
+2024/09/21 09:59:43 [info] 21640#8136: *1 client connected '127.0.0.1'
+2024/09/21 09:59:43 [info] 21640#8136: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live' tc_url='rtmp://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:59:43 [info] 21640#8136: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:59:43 [info] 21640#8136: *1 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:59:43 [info] 21640#8136: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 09:59:43 [info] 21640#8136: *1 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:00:41 [info] 21640#8136: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:00:41 [info] 21640#8136: *1 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:00:41 [info] 21640#8136: *3 disconnect, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 10:00:41 [info] 21640#8136: *3 deleteStream, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 10:00:41 [info] 21640#8136: *2 disconnect, client: 127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 10:00:41 [info] 21640#8136: *2 deleteStream, client: 127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 10:00:41 [info] 21640#8136: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:00:41 [info] 21640#8136: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:01:28 [notice] 29524#45288: using the "select" event method
+2024/09/21 10:01:28 [notice] 29524#45288: nginx/1.13.12
+2024/09/21 10:01:28 [info] 29524#45288: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:01:28 [notice] 29524#45288: start worker processes
+2024/09/21 10:01:28 [notice] 29524#45288: start worker process 38640
+2024/09/21 10:01:28 [notice] 38640#22912: nginx/1.13.12
+2024/09/21 10:01:28 [info] 38640#22912: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:01:28 [notice] 38640#22912: create thread 19240
+2024/09/21 10:01:28 [notice] 38640#22912: create thread 15276
+2024/09/21 10:01:28 [notice] 38640#22912: create thread 45684
+2024/09/21 10:01:33 [info] 38640#19240: *1 client connected '127.0.0.1'
+2024/09/21 10:01:33 [info] 38640#19240: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live' tc_url='rtmp://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:01:33 [info] 38640#19240: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:01:33 [info] 38640#19240: *1 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:01:33 [info] 38640#19240: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:55776/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:01:33 [info] 38640#19240: *1 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:04:49 [notice] 38780#18136: using the "select" event method
+2024/09/21 10:04:49 [notice] 38780#18136: nginx/1.13.12
+2024/09/21 10:04:49 [info] 38780#18136: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:04:49 [notice] 38780#18136: start worker processes
+2024/09/21 10:04:49 [notice] 38780#18136: start worker process 13356
+2024/09/21 10:04:49 [notice] 13356#14616: nginx/1.13.12
+2024/09/21 10:04:49 [info] 13356#14616: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:04:49 [notice] 13356#14616: create thread 41160
+2024/09/21 10:04:49 [notice] 13356#14616: create thread 9728
+2024/09/21 10:04:49 [notice] 13356#14616: create thread 5164
+2024/09/21 10:07:01 [notice] 29332#21360: using the "select" event method
+2024/09/21 10:07:01 [notice] 29332#21360: nginx/1.13.12
+2024/09/21 10:07:01 [info] 29332#21360: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:07:01 [notice] 29332#21360: start worker processes
+2024/09/21 10:07:01 [notice] 29332#21360: start worker process 7904
+2024/09/21 10:07:01 [notice] 7904#19704: nginx/1.13.12
+2024/09/21 10:07:01 [info] 7904#19704: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:07:01 [notice] 7904#19704: create thread 38640
+2024/09/21 10:07:01 [notice] 7904#19704: create thread 34624
+2024/09/21 10:07:01 [notice] 7904#19704: create thread 36380
+2024/09/21 10:12:12 [notice] 34012#33808: using the "select" event method
+2024/09/21 10:12:12 [notice] 34012#33808: nginx/1.13.12
+2024/09/21 10:12:12 [info] 34012#33808: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:12:12 [notice] 34012#33808: start worker processes
+2024/09/21 10:12:12 [notice] 34012#33808: start worker process 23940
+2024/09/21 10:12:12 [notice] 23940#33580: nginx/1.13.12
+2024/09/21 10:12:12 [info] 23940#33580: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:12:12 [notice] 23940#33580: create thread 22892
+2024/09/21 10:12:12 [notice] 23940#33580: create thread 43496
+2024/09/21 10:12:12 [notice] 23940#33580: create thread 29624
+2024/09/21 10:12:39 [notice] 1912#32464: using the "select" event method
+2024/09/21 10:12:39 [notice] 1912#32464: nginx/1.13.12
+2024/09/21 10:12:39 [info] 1912#32464: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:12:39 [notice] 1912#32464: start worker processes
+2024/09/21 10:12:39 [notice] 1912#32464: start worker process 32552
+2024/09/21 10:12:39 [notice] 32552#41116: nginx/1.13.12
+2024/09/21 10:12:39 [info] 32552#41116: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:12:39 [notice] 32552#41116: create thread 6304
+2024/09/21 10:12:39 [notice] 32552#41116: create thread 10268
+2024/09/21 10:12:39 [notice] 32552#41116: create thread 28352
+2024/09/21 10:12:59 [notice] 14420#36572: using the "select" event method
+2024/09/21 10:12:59 [notice] 14420#36572: nginx/1.13.12
+2024/09/21 10:12:59 [info] 14420#36572: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:12:59 [notice] 14420#36572: start worker processes
+2024/09/21 10:12:59 [notice] 14420#36572: start worker process 42688
+2024/09/21 10:13:00 [notice] 42688#34988: nginx/1.13.12
+2024/09/21 10:13:00 [info] 42688#34988: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:13:00 [notice] 42688#34988: create thread 38416
+2024/09/21 10:13:00 [notice] 42688#34988: create thread 21416
+2024/09/21 10:13:00 [notice] 42688#34988: create thread 30620
+2024/09/21 10:15:08 [info] 42688#38416: *1 client connected '127.0.0.1'
+2024/09/21 10:15:08 [info] 42688#38416: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live' tc_url='rtmp://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:08 [info] 42688#38416: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:08 [info] 42688#38416: *1 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:08 [info] 42688#38416: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57151/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:08 [info] 42688#38416: *1 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:08 [info] 42688#38416: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57152/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:08 [info] 42688#38416: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57184/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:08 [info] 42688#38416: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57224/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:11 [info] 42688#38416: *4 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57152/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:11 [info] 42688#38416: *4 disconnect, client: 127.0.0.1:57152/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:11 [info] 42688#38416: *4 deleteStream, client: 127.0.0.1:57152/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:12 [info] 42688#38416: *6 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57224/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:12 [info] 42688#38416: *6 disconnect, client: 127.0.0.1:57224/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:12 [info] 42688#38416: *6 deleteStream, client: 127.0.0.1:57224/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:13 [info] 42688#38416: *5 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57184/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:13 [info] 42688#38416: *5 disconnect, client: 127.0.0.1:57184/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:13 [info] 42688#38416: *5 deleteStream, client: 127.0.0.1:57184/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:14 [info] 42688#38416: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57152/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:14 [info] 42688#38416: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57184/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:14 [info] 42688#38416: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57224/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:15 [info] 42688#38416: *8 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57184/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *8 disconnect, client: 127.0.0.1:57184/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *8 deleteStream, client: 127.0.0.1:57184/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:15 [info] 42688#38416: *1 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:15 [info] 42688#38416: *9 disconnect, client: 127.0.0.1:57224/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *9 deleteStream, client: 127.0.0.1:57224/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *7 disconnect, client: 127.0.0.1:57152/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *7 deleteStream, client: 127.0.0.1:57152/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *3 disconnect, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *3 deleteStream, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *2 disconnect, client: 127.0.0.1:57151/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *2 deleteStream, client: 127.0.0.1:57151/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN, server: ngx-relay
+2024/09/21 10:15:15 [info] 42688#38416: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:15 [info] 42688#38416: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:15:37 [notice] 36696#39820: using the "select" event method
+2024/09/21 10:15:37 [notice] 36696#39820: nginx/1.13.12
+2024/09/21 10:15:37 [info] 36696#39820: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:15:37 [notice] 36696#39820: start worker processes
+2024/09/21 10:15:37 [notice] 36696#39820: start worker process 24448
+2024/09/21 10:15:37 [notice] 24448#39136: nginx/1.13.12
+2024/09/21 10:15:37 [info] 24448#39136: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:15:37 [notice] 24448#39136: create thread 18996
+2024/09/21 10:15:37 [notice] 24448#39136: create thread 6640
+2024/09/21 10:15:37 [notice] 24448#39136: create thread 6544
+2024/09/21 10:15:58 [notice] 30672#11236: using the "select" event method
+2024/09/21 10:15:58 [notice] 30672#11236: nginx/1.13.12
+2024/09/21 10:15:58 [info] 30672#11236: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:15:58 [notice] 30672#11236: start worker processes
+2024/09/21 10:15:58 [notice] 30672#11236: start worker process 43028
+2024/09/21 10:15:58 [notice] 43028#34444: nginx/1.13.12
+2024/09/21 10:15:58 [info] 43028#34444: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:15:58 [notice] 43028#34444: create thread 30808
+2024/09/21 10:15:58 [notice] 43028#34444: create thread 24764
+2024/09/21 10:15:58 [notice] 43028#34444: create thread 36128
+2024/09/21 10:16:30 [info] 43028#30808: *1 client connected '127.0.0.1'
+2024/09/21 10:16:30 [info] 43028#30808: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live' tc_url='rtmp://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:16:30 [info] 43028#30808: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:16:30 [info] 43028#30808: *1 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:16:30 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:16:33 [info] 43028#30808: *2 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:33 [info] 43028#30808: *2 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:33 [info] 43028#30808: *2 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:36 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:16:38 [info] 43028#30808: *3 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:38 [info] 43028#30808: *3 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:38 [info] 43028#30808: *3 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:41 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:16:44 [info] 43028#30808: *4 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:44 [info] 43028#30808: *4 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:44 [info] 43028#30808: *4 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:47 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:16:50 [info] 43028#30808: *5 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:50 [info] 43028#30808: *5 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:50 [info] 43028#30808: *5 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:53 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:16:58 [info] 43028#30808: *6 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:58 [info] 43028#30808: *6 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:16:58 [info] 43028#30808: *6 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:01 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:17:06 [info] 43028#30808: *7 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:06 [info] 43028#30808: *7 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:06 [info] 43028#30808: *7 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:09 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:17:11 [error] 43028#30808: *9 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:57466", referrer: "http://127.0.0.1:57466/stat"
+2024/09/21 10:17:17 [info] 43028#30808: *8 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:17 [info] 43028#30808: *8 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:17 [info] 43028#30808: *8 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:20 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:17:21 [info] 43028#30808: *10 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:21 [info] 43028#30808: *10 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:21 [info] 43028#30808: *10 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:24 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:17:26 [info] 43028#30808: *11 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:26 [info] 43028#30808: *11 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:26 [info] 43028#30808: *11 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:29 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:17:33 [info] 43028#30808: *12 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:33 [info] 43028#30808: *12 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:33 [info] 43028#30808: *12 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:36 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:17:39 [info] 43028#30808: *13 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:39 [info] 43028#30808: *13 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:39 [info] 43028#30808: *13 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:42 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:17:47 [info] 43028#30808: *14 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:47 [info] 43028#30808: *14 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:47 [info] 43028#30808: *14 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:50 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:17:57 [info] 43028#30808: *15 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:17:57 [info] 43028#30808: *15 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:00 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:04 [info] 43028#30808: *16 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:04 [info] 43028#30808: *16 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:04 [info] 43028#30808: *16 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:07 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:10 [info] 43028#30808: *17 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:10 [info] 43028#30808: *17 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:10 [info] 43028#30808: *17 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:13 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:19 [info] 43028#30808: *18 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:19 [info] 43028#30808: *18 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:19 [info] 43028#30808: *18 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:22 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:24 [info] 43028#30808: *19 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:24 [info] 43028#30808: *19 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:24 [info] 43028#30808: *19 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:27 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:31 [info] 43028#30808: *20 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:31 [info] 43028#30808: *20 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:31 [info] 43028#30808: *20 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:34 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:37 [info] 43028#30808: *21 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:37 [info] 43028#30808: *21 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:37 [info] 43028#30808: *21 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:40 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:44 [info] 43028#30808: *22 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:44 [info] 43028#30808: *22 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:44 [info] 43028#30808: *22 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:47 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:51 [info] 43028#30808: *23 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:51 [info] 43028#30808: *23 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:51 [info] 43028#30808: *23 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:54 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:18:58 [info] 43028#30808: *24 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:58 [info] 43028#30808: *24 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:18:58 [info] 43028#30808: *24 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:01 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:02 [info] 43028#30808: *25 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:02 [info] 43028#30808: *25 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:02 [info] 43028#30808: *25 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:05 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:07 [info] 43028#30808: *27 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:07 [info] 43028#30808: *27 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:07 [info] 43028#30808: *27 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:10 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:11 [info] 43028#30808: *28 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:11 [info] 43028#30808: *28 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:11 [info] 43028#30808: *28 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:14 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:20 [info] 43028#30808: *29 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:20 [info] 43028#30808: *29 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:20 [info] 43028#30808: *29 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:23 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:26 [info] 43028#30808: *30 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:26 [info] 43028#30808: *30 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:26 [info] 43028#30808: *30 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:29 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:30 [info] 43028#30808: *31 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:30 [info] 43028#30808: *31 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:30 [info] 43028#30808: *31 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:33 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:38 [info] 43028#30808: *32 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:38 [info] 43028#30808: *32 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:38 [info] 43028#30808: *32 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:41 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:43 [info] 43028#30808: *33 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:43 [info] 43028#30808: *33 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:43 [info] 43028#30808: *33 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:46 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:50 [info] 43028#30808: *34 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:50 [info] 43028#30808: *34 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:50 [info] 43028#30808: *34 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:53 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:54 [info] 43028#30808: *35 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:54 [info] 43028#30808: *35 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:54 [info] 43028#30808: *35 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:57 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:19:59 [info] 43028#30808: *36 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:59 [info] 43028#30808: *36 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:19:59 [info] 43028#30808: *36 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:02 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:06 [info] 43028#30808: *37 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:06 [info] 43028#30808: *37 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:06 [info] 43028#30808: *37 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:09 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:16 [info] 43028#30808: *38 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:16 [info] 43028#30808: *38 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:19 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:24 [info] 43028#30808: *39 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:24 [info] 43028#30808: *39 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:24 [info] 43028#30808: *39 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:27 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:31 [info] 43028#30808: *40 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:31 [info] 43028#30808: *40 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:31 [info] 43028#30808: *40 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:34 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:35 [info] 43028#30808: *41 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:35 [info] 43028#30808: *41 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:35 [info] 43028#30808: *41 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:37 [error] 43028#30808: *42 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:57466", referrer: "http://127.0.0.1:57466/stat"
+2024/09/21 10:20:37 [info] 43028#30808: *42 client 127.0.0.1 closed keepalive connection (10053: An established connection was aborted by the software in your host machine)
+2024/09/21 10:20:38 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:40 [info] 43028#30808: *43 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:40 [info] 43028#30808: *43 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:40 [info] 43028#30808: *43 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:43 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:47 [info] 43028#30808: *44 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:47 [info] 43028#30808: *44 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:47 [info] 43028#30808: *44 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:50 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:52 [info] 43028#30808: *45 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:52 [info] 43028#30808: *45 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:52 [info] 43028#30808: *45 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:55 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:20:59 [info] 43028#30808: *46 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:59 [info] 43028#30808: *46 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:20:59 [info] 43028#30808: *46 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:02 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:08 [info] 43028#30808: *47 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:08 [info] 43028#30808: *47 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:11 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:16 [info] 43028#30808: *48 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:16 [info] 43028#30808: *48 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:16 [info] 43028#30808: *48 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:19 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:22 [info] 43028#30808: *49 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:22 [info] 43028#30808: *49 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:22 [info] 43028#30808: *49 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:25 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:27 [info] 43028#30808: *50 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:27 [info] 43028#30808: *50 disconnect, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:27 [info] 43028#30808: *50 deleteStream, client: 127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:30 [info] 43028#30808: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57465/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:39 [notice] 22728#43920: using the "select" event method
+2024/09/21 10:21:39 [notice] 22728#43920: nginx/1.13.12
+2024/09/21 10:21:39 [info] 22728#43920: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:21:39 [notice] 22728#43920: start worker processes
+2024/09/21 10:21:39 [notice] 22728#43920: start worker process 15084
+2024/09/21 10:21:39 [notice] 15084#31196: nginx/1.13.12
+2024/09/21 10:21:39 [info] 15084#31196: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 10:21:39 [notice] 15084#31196: create thread 26312
+2024/09/21 10:21:39 [notice] 15084#31196: create thread 26268
+2024/09/21 10:21:39 [notice] 15084#31196: create thread 39000
+2024/09/21 10:21:41 [info] 15084#26312: *1 client connected '127.0.0.1'
+2024/09/21 10:21:41 [info] 15084#26312: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live' tc_url='rtmp://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:41 [info] 15084#26312: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:41 [info] 15084#26312: *1 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:41 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57899/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:41 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:41 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:43 [info] 15084#26312: *4 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:43 [info] 15084#26312: *4 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:43 [info] 15084#26312: *4 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:46 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:47 [info] 15084#26312: *5 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:47 [info] 15084#26312: *5 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:47 [info] 15084#26312: *5 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:50 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:53 [info] 15084#26312: *6 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:53 [info] 15084#26312: *6 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:56 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:21:58 [info] 15084#26312: *7 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:58 [info] 15084#26312: *7 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:21:58 [info] 15084#26312: *7 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:01 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:22:03 [info] 15084#26312: *8 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:03 [info] 15084#26312: *8 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:03 [info] 15084#26312: *8 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:06 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:22:11 [info] 15084#26312: *9 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:11 [info] 15084#26312: *9 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:11 [info] 15084#26312: *9 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:12 [error] 15084#26312: *10 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:57901", referrer: "http://127.0.0.1:57901/stat"
+2024/09/21 10:22:14 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:22:16 [info] 15084#26312: *11 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:16 [info] 15084#26312: *11 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:19 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:22:22 [info] 15084#26312: *12 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:22 [info] 15084#26312: *12 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:22 [info] 15084#26312: *12 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:25 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:22:26 [info] 15084#26312: *13 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:26 [info] 15084#26312: *13 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:26 [info] 15084#26312: *13 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:29 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:22:31 [info] 15084#26312: *14 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:31 [info] 15084#26312: *14 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:31 [info] 15084#26312: *14 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:34 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:22:38 [info] 15084#26312: *15 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:38 [info] 15084#26312: *15 disconnect, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:38 [info] 15084#26312: *15 deleteStream, client: 127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 10:22:41 [info] 15084#26312: *3 handshake: send: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 10:22:41 [info] 15084#26312: *3 disconnect, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 10:22:41 [info] 15084#26312: *3 deleteStream, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 10:22:41 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 10:22:41 [info] 15084#26312: *1 relay: create push name='' app='' playpath='' url='127.0.0.1:57900/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:12:02 [notice] 3248#7796: using the "select" event method
+2024/09/21 11:12:02 [notice] 3248#7796: nginx/1.13.12
+2024/09/21 11:12:02 [info] 3248#7796: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 11:12:02 [notice] 3248#7796: start worker processes
+2024/09/21 11:12:02 [notice] 3248#7796: start worker process 17548
+2024/09/21 11:12:02 [notice] 17548#30264: nginx/1.13.12
+2024/09/21 11:12:02 [info] 17548#30264: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 11:12:02 [notice] 17548#30264: create thread 35248
+2024/09/21 11:12:02 [notice] 17548#30264: create thread 7400
+2024/09/21 11:12:02 [notice] 17548#30264: create thread 2180
+2024/09/21 11:13:57 [error] 17548#35248: *1 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:63577", referrer: "http://127.0.0.1:63577/stat"
+2024/09/21 11:27:52 [notice] 29900#40368: using the "select" event method
+2024/09/21 11:27:52 [notice] 29900#40368: nginx/1.13.12
+2024/09/21 11:27:52 [info] 29900#40368: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 11:27:52 [notice] 29900#40368: start worker processes
+2024/09/21 11:27:52 [notice] 29900#40368: start worker process 45740
+2024/09/21 11:27:52 [notice] 45740#28904: nginx/1.13.12
+2024/09/21 11:27:52 [info] 45740#28904: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 11:27:52 [notice] 45740#28904: create thread 46116
+2024/09/21 11:27:52 [notice] 45740#28904: create thread 31008
+2024/09/21 11:27:52 [notice] 45740#28904: create thread 20132
+2024/09/21 11:29:01 [notice] 20284#38152: using the "select" event method
+2024/09/21 11:29:01 [notice] 20284#38152: nginx/1.13.12
+2024/09/21 11:29:01 [info] 20284#38152: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 11:29:01 [notice] 20284#38152: start worker processes
+2024/09/21 11:29:01 [notice] 20284#38152: start worker process 16036
+2024/09/21 11:29:01 [notice] 16036#34020: nginx/1.13.12
+2024/09/21 11:29:01 [info] 16036#34020: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 11:29:01 [notice] 16036#34020: create thread 38784
+2024/09/21 11:29:01 [notice] 16036#34020: create thread 46684
+2024/09/21 11:29:01 [notice] 16036#34020: create thread 31976
+2024/09/21 11:29:28 [error] 16036#38784: *1 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:64933", referrer: "http://127.0.0.1:64933/stat"
+2024/09/21 11:29:42 [info] 16036#38784: *2 client connected '127.0.0.1'
+2024/09/21 11:29:42 [info] 16036#38784: *2 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live' tc_url='rtmp://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:29:42 [info] 16036#38784: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:29:42 [info] 16036#38784: *2 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:29:42 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:29:44 [info] 16036#38784: *3 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:29:44 [info] 16036#38784: *3 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:29:44 [info] 16036#38784: *3 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:29:46 [info] 16036#38784: *1 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:47 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:29:49 [info] 16036#38784: *4 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:50 [info] 16036#38784: *6 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:50 [info] 16036#38784: *7 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:51 [info] 16036#38784: *8 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:51 [info] 16036#38784: *9 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:52 [info] 16036#38784: *10 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:52 [info] 16036#38784: *11 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:52 [info] 16036#38784: *5 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:29:52 [info] 16036#38784: *5 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:29:52 [info] 16036#38784: *5 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:29:53 [info] 16036#38784: *12 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:53 [info] 16036#38784: *13 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:54 [info] 16036#38784: *14 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:29:55 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:29:57 [info] 16036#38784: *16 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:29:57 [info] 16036#38784: *16 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:29:57 [info] 16036#38784: *16 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:00 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:04 [info] 16036#38784: *17 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:04 [info] 16036#38784: *17 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:04 [info] 16036#38784: *17 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:07 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:09 [info] 16036#38784: *18 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:09 [info] 16036#38784: *18 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:09 [info] 16036#38784: *18 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:12 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:14 [info] 16036#38784: *19 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:14 [info] 16036#38784: *19 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:14 [info] 16036#38784: *19 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:17 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:22 [info] 16036#38784: *20 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:22 [info] 16036#38784: *20 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:22 [info] 16036#38784: *20 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:25 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:26 [info] 16036#38784: *21 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:26 [info] 16036#38784: *21 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:26 [info] 16036#38784: *21 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:29 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:32 [info] 16036#38784: *22 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:32 [info] 16036#38784: *22 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:32 [info] 16036#38784: *22 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:35 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:37 [info] 16036#38784: *23 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:37 [info] 16036#38784: *23 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:37 [info] 16036#38784: *23 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:40 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:42 [info] 16036#38784: *24 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:42 [info] 16036#38784: *24 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:42 [info] 16036#38784: *24 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:45 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:47 [info] 16036#38784: *25 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:47 [info] 16036#38784: *25 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:47 [info] 16036#38784: *25 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:50 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:51 [info] 16036#38784: *26 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:51 [info] 16036#38784: *26 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:51 [info] 16036#38784: *26 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:54 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:30:59 [info] 16036#38784: *27 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:59 [info] 16036#38784: *27 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:30:59 [info] 16036#38784: *27 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:02 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:31:04 [info] 16036#38784: *28 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:04 [info] 16036#38784: *28 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:04 [info] 16036#38784: *28 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:07 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:31:09 [info] 16036#38784: *29 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:09 [info] 16036#38784: *29 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:09 [info] 16036#38784: *29 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:12 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:31:18 [info] 16036#38784: *30 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:18 [info] 16036#38784: *30 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:18 [info] 16036#38784: *30 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:21 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:31:26 [info] 16036#38784: *31 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:26 [info] 16036#38784: *31 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:26 [info] 16036#38784: *31 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:29 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:31:33 [info] 16036#38784: *32 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:33 [info] 16036#38784: *32 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:36 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:31:40 [info] 16036#38784: *33 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:40 [info] 16036#38784: *33 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:40 [info] 16036#38784: *33 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:43 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:31:47 [info] 16036#38784: *34 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:47 [info] 16036#38784: *34 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:50 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:31:58 [info] 16036#38784: *35 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:58 [info] 16036#38784: *35 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:31:58 [info] 16036#38784: *35 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:01 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:32:03 [info] 16036#38784: *36 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:03 [info] 16036#38784: *36 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:03 [info] 16036#38784: *36 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:06 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:32:08 [info] 16036#38784: *37 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:08 [info] 16036#38784: *37 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:11 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:32:13 [info] 16036#38784: *38 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:13 [info] 16036#38784: *38 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:13 [info] 16036#38784: *38 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:16 [info] 16036#38784: *2 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:32:17 [info] 16036#38784: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:32:17 [info] 16036#38784: *2 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:32:17 [info] 16036#38784: *39 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:17 [info] 16036#38784: *39 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:32:17 [info] 16036#38784: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:32:17 [info] 16036#38784: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:35:17 [info] 16036#38784: *40 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:35:17 [error] 16036#38784: *41 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:64933", referrer: "http://127.0.0.1:64933/stat"
+2024/09/21 11:36:20 [info] 16036#38784: *41 client 127.0.0.1 closed keepalive connection
+2024/09/21 11:36:20 [error] 16036#38784: *42 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:64933", referrer: "http://127.0.0.1:64933/stat"
+2024/09/21 11:38:57 [error] 16036#38784: *43 CreateFile() "G:\C#\MultiStream\MultiStream\bin\Debug\server\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:64933", referrer: "http://127.0.0.1:64933/stat"
+2024/09/21 11:39:04 [info] 16036#38784: *44 client connected '127.0.0.1'
+2024/09/21 11:39:04 [info] 16036#38784: *44 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live' tc_url='rtmp://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:04 [info] 16036#38784: *44 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:04 [info] 16036#38784: *44 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:04 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:06 [info] 16036#38784: *45 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:06 [info] 16036#38784: *45 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:06 [info] 16036#38784: *45 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:09 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:12 [info] 16036#38784: *46 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:12 [info] 16036#38784: *46 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:12 [info] 16036#38784: *46 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:15 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:17 [info] 16036#38784: *47 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:17 [info] 16036#38784: *47 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:17 [info] 16036#38784: *47 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:20 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:24 [info] 16036#38784: *48 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:24 [info] 16036#38784: *48 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:24 [info] 16036#38784: *48 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:27 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:28 [info] 16036#38784: *49 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:28 [info] 16036#38784: *49 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:28 [info] 16036#38784: *49 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:31 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:34 [info] 16036#38784: *50 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:34 [info] 16036#38784: *50 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:34 [info] 16036#38784: *50 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:37 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:39 [info] 16036#38784: *51 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:39 [info] 16036#38784: *51 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:39 [info] 16036#38784: *51 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:42 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 11:39:46 [info] 16036#38784: *52 disconnect, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:46 [info] 16036#38784: *52 deleteStream, client: 127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0, server: ngx-relay
+2024/09/21 11:39:49 [info] 16036#38784: *44 relay: create push name='' app='' playpath='' url='127.0.0.1:64932/app/sk_us-west-2_lOmysPb4CAYt_Nwl82vRvNhYcfHOAvCzmbctt06YJNN0', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 16:26:42 [notice] 18824#45932: using the "select" event method
+2024/09/21 16:26:42 [notice] 18824#45932: nginx/1.13.12
+2024/09/21 16:26:42 [info] 18824#45932: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:26:42 [notice] 18824#45932: start worker processes
+2024/09/21 16:26:42 [notice] 18824#45932: start worker process 22812
+2024/09/21 16:26:42 [notice] 22812#38392: nginx/1.13.12
+2024/09/21 16:26:42 [info] 22812#38392: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:26:42 [notice] 22812#38392: create thread 39392
+2024/09/21 16:26:42 [notice] 22812#38392: create thread 42700
+2024/09/21 16:26:42 [notice] 22812#38392: create thread 26968
+2024/09/21 16:27:09 [notice] 12392#15212: using the "select" event method
+2024/09/21 16:27:09 [notice] 12392#15212: nginx/1.13.12
+2024/09/21 16:27:09 [info] 12392#15212: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:27:09 [notice] 12392#15212: start worker processes
+2024/09/21 16:27:09 [notice] 12392#15212: start worker process 22940
+2024/09/21 16:27:09 [notice] 22940#28520: nginx/1.13.12
+2024/09/21 16:27:09 [info] 22940#28520: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:27:09 [notice] 22940#28520: create thread 34176
+2024/09/21 16:27:09 [notice] 22940#28520: create thread 45880
+2024/09/21 16:27:09 [notice] 22940#28520: create thread 13412
+2024/09/21 16:27:16 [notice] 44024#10132: using the "select" event method
+2024/09/21 16:27:16 [notice] 44024#10132: nginx/1.13.12
+2024/09/21 16:27:16 [info] 44024#10132: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:27:16 [notice] 44024#10132: start worker processes
+2024/09/21 16:27:16 [notice] 44024#10132: start worker process 36460
+2024/09/21 16:27:16 [notice] 36460#1744: nginx/1.13.12
+2024/09/21 16:27:16 [info] 36460#1744: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:27:16 [notice] 36460#1744: create thread 47048
+2024/09/21 16:27:16 [notice] 36460#1744: create thread 12660
+2024/09/21 16:27:16 [notice] 36460#1744: create thread 24496
+2024/09/21 16:28:09 [notice] 19552#35728: using the "select" event method
+2024/09/21 16:28:09 [notice] 19552#35728: nginx/1.13.12
+2024/09/21 16:28:09 [info] 19552#35728: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:28:09 [notice] 19552#35728: start worker processes
+2024/09/21 16:28:09 [notice] 19552#35728: start worker process 34784
+2024/09/21 16:28:09 [notice] 34784#24704: nginx/1.13.12
+2024/09/21 16:28:09 [info] 34784#24704: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:28:09 [notice] 34784#24704: create thread 46056
+2024/09/21 16:28:09 [notice] 34784#24704: create thread 10416
+2024/09/21 16:28:09 [notice] 34784#24704: create thread 1368
+2024/09/21 16:31:55 [notice] 46008#35572: using the "select" event method
+2024/09/21 16:31:55 [notice] 46008#35572: nginx/1.13.12
+2024/09/21 16:31:55 [info] 46008#35572: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:31:55 [notice] 46008#35572: start worker processes
+2024/09/21 16:31:55 [notice] 46008#35572: start worker process 2480
+2024/09/21 16:31:55 [notice] 2480#9528: nginx/1.13.12
+2024/09/21 16:31:55 [info] 2480#9528: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 16:31:55 [notice] 2480#9528: create thread 18996
+2024/09/21 16:31:55 [notice] 2480#9528: create thread 19236
+2024/09/21 16:31:55 [notice] 2480#9528: create thread 23528
+2024/09/21 20:43:19 [notice] 39516#4052: using the "select" event method
+2024/09/21 20:43:19 [notice] 39516#4052: nginx/1.13.12
+2024/09/21 20:43:19 [info] 39516#4052: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:43:19 [notice] 39516#4052: start worker processes
+2024/09/21 20:43:19 [notice] 39516#4052: start worker process 23428
+2024/09/21 20:43:19 [notice] 23428#6640: nginx/1.13.12
+2024/09/21 20:43:19 [info] 23428#6640: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:43:19 [notice] 23428#6640: create thread 31972
+2024/09/21 20:43:19 [notice] 23428#6640: create thread 37400
+2024/09/21 20:43:19 [notice] 23428#6640: create thread 43440
+2024/09/21 20:44:02 [notice] 1976#46420: using the "select" event method
+2024/09/21 20:44:02 [notice] 1976#46420: nginx/1.13.12
+2024/09/21 20:44:02 [info] 1976#46420: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:44:02 [notice] 1976#46420: start worker processes
+2024/09/21 20:44:02 [notice] 1976#46420: start worker process 30808
+2024/09/21 20:44:02 [notice] 30808#14932: nginx/1.13.12
+2024/09/21 20:44:02 [info] 30808#14932: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:44:02 [notice] 30808#14932: create thread 39096
+2024/09/21 20:44:02 [notice] 30808#14932: create thread 4584
+2024/09/21 20:44:02 [notice] 30808#14932: create thread 8908
+2024/09/21 20:44:12 [notice] 41052#34264: using the "select" event method
+2024/09/21 20:44:12 [notice] 41052#34264: nginx/1.13.12
+2024/09/21 20:44:12 [info] 41052#34264: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:44:12 [notice] 41052#34264: start worker processes
+2024/09/21 20:44:12 [notice] 41052#34264: start worker process 22396
+2024/09/21 20:44:12 [notice] 22396#32084: nginx/1.13.12
+2024/09/21 20:44:12 [info] 22396#32084: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:44:12 [notice] 22396#32084: create thread 18916
+2024/09/21 20:44:12 [notice] 22396#32084: create thread 26160
+2024/09/21 20:44:12 [notice] 22396#32084: create thread 15276
+2024/09/21 20:47:45 [notice] 32780#8656: using the "select" event method
+2024/09/21 20:47:45 [notice] 32780#8656: nginx/1.13.12
+2024/09/21 20:47:45 [info] 32780#8656: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:47:45 [notice] 32780#8656: start worker processes
+2024/09/21 20:47:45 [notice] 32780#8656: start worker process 33556
+2024/09/21 20:47:45 [notice] 33556#45000: nginx/1.13.12
+2024/09/21 20:47:45 [info] 33556#45000: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:47:45 [notice] 33556#45000: create thread 2764
+2024/09/21 20:47:45 [notice] 33556#45000: create thread 42216
+2024/09/21 20:47:45 [notice] 33556#45000: create thread 46152
+2024/09/21 20:58:14 [notice] 17612#33452: using the "select" event method
+2024/09/21 20:58:14 [notice] 17612#33452: nginx/1.13.12
+2024/09/21 20:58:14 [info] 17612#33452: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:58:14 [notice] 17612#33452: start worker processes
+2024/09/21 20:58:14 [notice] 17612#33452: start worker process 26948
+2024/09/21 20:58:14 [notice] 26948#13144: nginx/1.13.12
+2024/09/21 20:58:14 [info] 26948#13144: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/21 20:58:14 [notice] 26948#13144: create thread 17720
+2024/09/21 20:58:14 [notice] 26948#13144: create thread 22648
+2024/09/21 20:58:14 [notice] 26948#13144: create thread 38736
+2024/09/21 20:58:32 [info] 26948#17720: *2 client connected '127.0.0.1'
+2024/09/21 20:58:32 [info] 26948#17720: *2 connect: app='live/UGLNQ35DTX' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://127.0.0.1/live/UGLNQ35DTX' tc_url='rtmp://127.0.0.1/live/UGLNQ35DTX' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 20:58:32 [info] 26948#17720: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 20:58:32 [info] 26948#17720: *2 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 20:58:32 [info] 26948#17720: *2 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 20:59:06 [info] 26948#17720: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 20:59:06 [info] 26948#17720: *2 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 20:59:06 [info] 26948#17720: *3 disconnect, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 20:59:06 [info] 26948#17720: *3 deleteStream, client: a.rtmp.youtube.com/live2/u62d-f0js-3z38-z1ja-69fp, server: ngx-relay
+2024/09/21 20:59:06 [info] 26948#17720: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/21 20:59:06 [info] 26948#17720: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/09/27 02:53:35 [notice] 32552#34628: using the "select" event method
+2024/09/27 02:53:35 [notice] 32552#34628: nginx/1.13.12
+2024/09/27 02:53:35 [info] 32552#34628: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/27 02:53:35 [notice] 32552#34628: start worker processes
+2024/09/27 02:53:35 [notice] 32552#34628: start worker process 21464
+2024/09/27 02:53:35 [notice] 21464#21676: nginx/1.13.12
+2024/09/27 02:53:35 [info] 21464#21676: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/27 02:53:35 [notice] 21464#21676: create thread 36628
+2024/09/27 02:53:35 [notice] 21464#21676: create thread 3156
+2024/09/27 02:53:35 [notice] 21464#21676: create thread 17896
+2024/09/27 02:57:14 [notice] 26564#15628: using the "select" event method
+2024/09/27 02:57:14 [notice] 26564#15628: nginx/1.13.12
+2024/09/27 02:57:14 [info] 26564#15628: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/27 02:57:14 [notice] 26564#15628: start worker processes
+2024/09/27 02:57:14 [notice] 26564#15628: start worker process 23576
+2024/09/27 02:57:14 [notice] 23576#26680: nginx/1.13.12
+2024/09/27 02:57:14 [info] 23576#26680: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/27 02:57:14 [notice] 23576#26680: create thread 24820
+2024/09/27 02:57:14 [notice] 23576#26680: create thread 29312
+2024/09/27 02:57:14 [notice] 23576#26680: create thread 31372
+2024/09/27 03:13:49 [emerg] 1652#11572: directive "push" is not terminated by ";" in D:\Program Files (x86)\FarhadiApps\MultiStream\server\nginx-rtmp-win32-1.2.1/conf/nginx.conf:21
+2024/09/27 03:18:34 [notice] 24836#29616: using the "select" event method
+2024/09/27 03:18:34 [notice] 24836#29616: nginx/1.13.12
+2024/09/27 03:18:34 [info] 24836#29616: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/27 03:18:34 [notice] 24836#29616: start worker processes
+2024/09/27 03:18:34 [notice] 24836#29616: start worker process 11768
+2024/09/27 03:18:35 [notice] 11768#27788: nginx/1.13.12
+2024/09/27 03:18:35 [info] 11768#27788: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/27 03:18:35 [notice] 11768#27788: create thread 15504
+2024/09/27 03:18:35 [notice] 11768#27788: create thread 22884
+2024/09/27 03:18:35 [notice] 11768#27788: create thread 26396
+2024/09/27 03:19:08 [notice] 10832#8508: using the "select" event method
+2024/09/27 03:19:08 [notice] 10832#8508: nginx/1.13.12
+2024/09/27 03:19:08 [info] 10832#8508: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/27 03:19:08 [notice] 10832#8508: start worker processes
+2024/09/27 03:19:08 [notice] 10832#8508: start worker process 8872
+2024/09/27 03:19:08 [notice] 8872#26480: nginx/1.13.12
+2024/09/27 03:19:08 [info] 8872#26480: OS: 260200 build:9200, "", suite:100, type:1
+2024/09/27 03:19:08 [notice] 8872#26480: create thread 13580
+2024/09/27 03:19:08 [notice] 8872#26480: create thread 11608
+2024/09/27 03:19:08 [notice] 8872#26480: create thread 28668
+2024/12/10 00:13:46 [notice] 13892#25644: signal process started
+2024/12/10 00:13:46 [error] 13892#25644: OpenEvent("Global\ngx_stop_10832") failed (2: The system cannot find the file specified)
+2024/12/10 00:14:01 [notice] 15856#29620: using the "select" event method
+2024/12/10 00:14:01 [notice] 15856#29620: nginx/1.13.12
+2024/12/10 00:14:01 [info] 15856#29620: OS: 260200 build:9200, "", suite:100, type:1
+2024/12/10 00:14:01 [notice] 15856#29620: start worker processes
+2024/12/10 00:14:01 [notice] 15856#29620: start worker process 24332
+2024/12/10 00:14:01 [notice] 24332#6464: nginx/1.13.12
+2024/12/10 00:14:01 [info] 24332#6464: OS: 260200 build:9200, "", suite:100, type:1
+2024/12/10 00:14:01 [notice] 24332#6464: create thread 7628
+2024/12/10 00:14:01 [notice] 24332#6464: create thread 24192
+2024/12/10 00:14:01 [notice] 24332#6464: create thread 27792
+2024/12/10 00:14:04 [notice] 7836#29208: signal process started
+2024/12/10 00:14:04 [notice] 15856#29620: exiting
+2024/12/10 00:14:04 [notice] 24332#6464: gracefully shutting down
+2024/12/10 00:14:04 [notice] 24332#24192: exiting
+2024/12/10 00:14:04 [notice] 24332#7628: exiting
+2024/12/10 00:14:04 [notice] 24332#6464: exit
+2024/12/10 00:14:04 [notice] 15856#29620: worker process 24332 exited with code 0
+2024/12/10 00:14:04 [notice] 15856#29620: exit
+2024/12/10 00:14:21 [notice] 27692#7588: signal process started
+2024/12/10 00:14:21 [error] 27692#7588: CreateFile() "C:\Users\MrX\Desktop\TMP\New folder (57)\nginx-rtmp-win32-1.2.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/12/10 00:14:31 [notice] 25112#23208: using the "select" event method
+2024/12/10 00:14:31 [notice] 25112#23208: nginx/1.13.12
+2024/12/10 00:14:31 [info] 25112#23208: OS: 260200 build:9200, "", suite:100, type:1
+2024/12/10 00:14:31 [notice] 25112#23208: start worker processes
+2024/12/10 00:14:31 [notice] 25112#23208: start worker process 28616
+2024/12/10 00:14:31 [notice] 28616#13548: nginx/1.13.12
+2024/12/10 00:14:31 [info] 28616#13548: OS: 260200 build:9200, "", suite:100, type:1
+2024/12/10 00:14:31 [notice] 28616#13548: create thread 14860
+2024/12/10 00:14:31 [notice] 28616#13548: create thread 27852
+2024/12/10 00:14:31 [notice] 28616#13548: create thread 26988
+2024/12/10 00:14:32 [notice] 17752#27476: signal process started
+2024/12/10 00:14:32 [notice] 25112#23208: exiting
+2024/12/10 00:14:32 [notice] 28616#13548: gracefully shutting down
+2024/12/10 00:14:32 [notice] 28616#27852: exiting
+2024/12/10 00:14:32 [notice] 28616#14860: exiting
+2024/12/10 00:14:32 [notice] 28616#13548: exit
+2024/12/10 00:14:32 [notice] 25112#23208: worker process 28616 exited with code 0
+2024/12/10 00:14:32 [notice] 25112#23208: exit
+2024/12/10 00:15:09 [notice] 17648#13768: using the "select" event method
+2024/12/10 00:15:09 [notice] 17648#13768: nginx/1.13.12
+2024/12/10 00:15:09 [info] 17648#13768: OS: 260200 build:9200, "", suite:100, type:1
+2024/12/10 00:15:09 [notice] 17648#13768: start worker processes
+2024/12/10 00:15:09 [notice] 17648#13768: start worker process 28868
+2024/12/10 00:15:09 [notice] 28868#9728: nginx/1.13.12
+2024/12/10 00:15:09 [info] 28868#9728: OS: 260200 build:9200, "", suite:100, type:1
+2024/12/10 00:15:09 [notice] 28868#9728: create thread 23884
+2024/12/10 00:15:09 [notice] 28868#9728: create thread 3492
+2024/12/10 00:15:09 [notice] 28868#9728: create thread 8332
+2024/12/10 00:15:27 [notice] 25388#27656: signal process started
+2024/12/10 00:15:27 [notice] 17648#13768: exiting
+2024/12/10 00:15:27 [notice] 28868#9728: gracefully shutting down
+2024/12/10 00:15:27 [notice] 28868#3492: exiting
+2024/12/10 00:15:27 [notice] 28868#23884: exiting
+2024/12/10 00:15:27 [notice] 28868#9728: exit
+2024/12/10 00:15:27 [notice] 17648#13768: worker process 28868 exited with code 0
+2024/12/10 00:15:27 [notice] 17648#13768: exit
+2024/12/10 00:19:00 [emerg] 8408#17712: invalid value "on" in C:\Users\MrX\Desktop\TMP\New folder (57)\nginx-rtmp-win32-1.2.1/conf/nginx.conf:17
+2024/12/10 00:22:18 [notice] 20992#16044: using the "select" event method
+2024/12/10 00:22:18 [notice] 20992#16044: nginx/1.13.12
+2024/12/10 00:22:18 [info] 20992#16044: OS: 260200 build:9200, "", suite:100, type:1
+2024/12/10 00:22:18 [notice] 20992#16044: start worker processes
+2024/12/10 00:22:18 [notice] 20992#16044: start worker process 6992
+2024/12/10 00:22:18 [notice] 6992#28272: nginx/1.13.12
+2024/12/10 00:22:18 [info] 6992#28272: OS: 260200 build:9200, "", suite:100, type:1
+2024/12/10 00:22:18 [notice] 6992#28272: create thread 21448
+2024/12/10 00:22:18 [notice] 6992#28272: create thread 24152
+2024/12/10 00:22:18 [notice] 6992#28272: create thread 22168
+2024/12/10 00:22:47 [error] 6992#21448: *1 CreateFile() "C:\Users\MrX\Desktop\TMP\New folder (57)\nginx-rtmp-win32-1.2.1/html/history/history.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "127.0.0.1:1080", referrer: "http://127.0.0.1:1080/"
+2024/12/10 00:22:47 [error] 6992#21448: *2 CreateFile() "C:\Users\MrX\Desktop\TMP\New folder (57)\nginx-rtmp-win32-1.2.1/html/history/history.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /history/history.js HTTP/1.1", host: "127.0.0.1:1080", referrer: "http://127.0.0.1:1080/"
+2024/12/10 00:22:48 [error] 6992#21448: *3 CreateFile() "C:\Users\MrX\Desktop\TMP\New folder (57)\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:1080", referrer: "http://127.0.0.1:1080/"
+2024/12/10 00:24:12 [info] 6992#21448: *4 client connected '127.0.0.1'
+2024/12/10 00:24:12 [info] 6992#21448: *4 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='http://127.0.0.1/live' tc_url='http://127.0.0.1/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/12/10 00:24:12 [info] 6992#21448: *4 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/12/10 00:24:12 [info] 6992#21448: *4 publish: name='' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2024/12/10 00:24:12 [info] 6992#21448: *4 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/2222-f0js-3z38-z1ja-1111', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/12/10 00:25:12 [info] 6992#21448: *5 handshake: send: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: a.rtmp.youtube.com/live2/2222-f0js-3z38-z1ja-1111, server: ngx-relay
+2024/12/10 00:25:12 [info] 6992#21448: *5 disconnect, client: a.rtmp.youtube.com/live2/2222-f0js-3z38-z1ja-1111, server: ngx-relay
+2024/12/10 00:25:12 [info] 6992#21448: *5 deleteStream, client: a.rtmp.youtube.com/live2/2222-f0js-3z38-z1ja-1111, server: ngx-relay
+2024/12/10 00:25:15 [info] 6992#21448: *4 relay: create push name='' app='' playpath='' url='a.rtmp.youtube.com/live2/2222-f0js-3z38-z1ja-1111', client: 127.0.0.1, server: 0.0.0.0:1935
+2024/12/10 00:25:42 [notice] 28404#26028: signal process started
+2024/12/10 00:25:42 [notice] 20992#16044: exiting
+2024/12/10 00:25:42 [notice] 6992#28272: gracefully shutting down
+2024/12/10 00:25:42 [notice] 6992#24152: exiting
+2024/12/10 00:25:47 [notice] 20992#16044: exit
+2024/12/10 00:44:34 [notice] 12064#21304: signal process started
+2024/12/10 00:44:34 [error] 12064#21304: CreateFile() "C:\Users\MrX\Desktop\TMP\New folder (57)\nginx-rtmp-win32-1.2.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
